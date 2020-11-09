@@ -1,0 +1,22 @@
+{
+	"components": {
+	    "x-550126-incident-list": {
+	        "innerComponents": [
+				"now-button",
+				"now-heading",
+				"now-loader",
+				"now-card",
+				"now-template-card",
+				"now-template-card-attachment",
+				"now-template-card-omnichannel"
+			],
+			"uiBuilder": {
+				"associatedTypes": ["global.core"],
+				"label": "Incident List",
+				"icon": "document-outline",
+				"description": "Instance incident list"
+			}
+	    }
+	},
+	"scopeName": "x_550126_test_in_0"
+}
